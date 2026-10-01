@@ -1,0 +1,6 @@
+source-wsq/
+__pycache__/
+.DS_Store
+.venv/
+build/
+assessment/
